@@ -2,4 +2,5 @@
 <changes>
 1.- Reflejar cambios al archivo para generar historia en los commit
 2.- Validar comandos git checkout <idcommit> <nombrearchivo>
+3.- Validar comando git checkout <main> <nombrearchivo>
 </changes>
