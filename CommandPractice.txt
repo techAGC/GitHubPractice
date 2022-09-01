@@ -2,4 +2,5 @@
 <changes>
 1.- Reflejar cambios al archivo para generar historia en los commit
 2.- Version nueva ocupando comando checkout
+3.- Conociendo el comando git commit -am ""
 </changes>

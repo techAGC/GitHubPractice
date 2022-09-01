@@ -1,6 +1,18 @@
 body
 {
-    color: rgb(220, 11, 217);
+    color: rgb(44, 15, 44);
     text-align: center;
     font-family:Georgia, 'Times New Roman', Times, serif;
+}
+#container
+{
+    width: 50%;
+    padding: 1em;
+    text-align: left;
+    border: 1px solid #000;
+    margin: 0 auto;
+}
+#container h1
+{
+    font-size: 20px;
 }
