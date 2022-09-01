@@ -1,1 +1,5 @@
 <summary>Práctica de comandos para identificar cambios en GIT</summary>
+<changes>
+1.- Reflejar cambios al archivo para generar historia en los commit
+
+</changes>
